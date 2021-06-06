@@ -27,6 +27,6 @@
     "url": "https://github.com/username/repostery/issues"
   },
   "dependencies": {
-    
+    "jquery": "^3.6.0"
   }
 }
